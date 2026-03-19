@@ -1,5 +1,5 @@
 ## Hi Im NAZARBEK MOYATDINOV 👋
-
+I LIVE IN TAXTAKOPPIR
 <!--
 **nazarbekswe/nazarbekswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
