@@ -3,7 +3,7 @@
 ##🧑🏻‍🎓 I AM A STUDENT AT MUHAMMAD AL-XORAZMIY VORISLARI 
 ##💻 IM CURRENTLY LERANING HTML5 AND CSS3 AND GITHUB
 ##⚡ I LOVE SOLVING LOGIC PULLEZ AND BUILDING "HACER/STYLE" WEB PROJECT 
-##🌏 BASSED IN QARAQALQAQSATAN
+##🌏 BASSED IN QARAQALPAQSATAN
 
 <!--
 **nazarbekswe/nazarbekswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
